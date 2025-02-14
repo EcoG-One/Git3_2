@@ -1,2 +1,4 @@
 initial step
 featureA done
+featureB step 1
+featureB step 2
