@@ -1,4 +1,4 @@
 initial step
 featureA done
-featureB step 1
+featureB step 1 I have to change something
 featureB step 2
